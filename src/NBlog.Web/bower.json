@@ -1,0 +1,12 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "font-awesome": "4.6.1",
+    "jstree": "3.3.0",
+    "layer": "*",
+    "iCheck": "1.0.2",
+    "jquery.cookie": "1.4.1"
+  }
+}
